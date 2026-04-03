@@ -20,3 +20,8 @@ This repository contains a collection of SQL scripts designed to analyse daily s
 * **Language:** SQL 
 * **Techniques:** Common Table Expressions (CTEs), Window Functions, Aggregations, Time-Series Data Filtering, Multi-table Joins.
 * **Domain Knowledge:** Equity Markets, Volatility Measurement, Liquidity Analysis.
+
+## Data Source
+The historical daily stock data used in this project was sourced from https://www.kaggle.com/datasets/camnugent/sandp500/data?select=all_stocks_5yr.csv
+
+*Note: The raw CSV dataset is not included in this repository due to file size constraints and version control best practices.*
