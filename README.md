@@ -36,6 +36,7 @@ This repository contains a series of SQL-based financial analyses focused on mar
 > **Objective:** calculate a 50-day moving average for Apple (AAPL).
 <details>
 <summary><b>Click to see Trading Signals</b></summary>
+  
 |date|ticker|close|fifty_day_avg|
 |----|------|-----|-------------|
 |2013-02-11|AAPL|68.5614|68.2078000000000000|
@@ -853,6 +854,7 @@ This repository contains a series of SQL-based financial analyses focused on mar
 |2018-01-22|AAPL|177.0000|173.1934000000000000|
 |2018-01-23|AAPL|177.0400|173.2094000000000000|
 |2018-01-24|AAPL|174.2200|173.1762000000000000|
+
 
 
 
